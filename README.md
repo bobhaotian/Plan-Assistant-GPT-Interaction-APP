@@ -2,6 +2,16 @@
 
 <img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/ead2f3d5-0b39-4eef-af86-90f4a514814f" width="128">
 
+## Introduction to the APP
+
+###### Note: Auto-GPT is an open-source Python application that was posted on GitHub. Some of its benefits are Ex. It has internet access, long-term, and short-term memory management. It has its IOS APP and much more powerful features till Jan 3, 2024, however, one of the best and most mature versions that I had when I started this project is version 0.3.1, so we'll discuss its features and restrictions.
+
+#### After the user gives it their requirements, it can show the user their goals, plans, and next steps. The interface in the terminal looks like this ⬇️
+<img width="961" alt="Screenshot 2024-01-04 at 2 14 33 PM" src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/b7acd999-7dce-43e9-87ff-7d419522ea51">
+
+#### This version requires users to show their plans explicitly so that the gpt can find the next steps. Therefore, I made three bars for user input in the APP version, named as first, second, and third steps, so that the AutoGPT can get the input in the best format.
+
+
 <img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/971437e5-b7fe-4c91-91f1-b3a212aa733a" width="128">
 
 <img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/96717fdb-4f47-4d4a-802b-10b2d05a8147" width="128">
@@ -9,8 +19,6 @@
 <img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/ac2c259b-75d4-4470-b87d-fc810cbd9b54" width="128">
 
 <img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/f65117ca-8cee-4620-b852-102b495c7cc1" width="428">
-
-<img width="1904" alt="Screenshot 2024-01-04 at 1 07 59 PM" src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/691d2e79-261b-4b43-8b9f-78bba0a6a078">
 
 
 ## Procedure of Making
