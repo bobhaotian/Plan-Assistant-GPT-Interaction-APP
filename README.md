@@ -9,16 +9,20 @@
 #### After the user gives it their requirements, it can show the user their goals, plans, and next steps. The interface in the terminal looks like this ⬇️
 <img width="961" alt="Screenshot 2024-01-04 at 2 14 33 PM" src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/b7acd999-7dce-43e9-87ff-7d419522ea51">
 
-#### This version requires users to show their plans explicitly so that the gpt can find the next steps. Therefore, I made three bars for user input in the APP version, named as first, second, and third steps, so that the AutoGPT can get the input in the best format.
+#### This version requires users to show their plans explicitly so that the gpt can find the next steps. Therefore, I made three bars for user input in the APP version, named as first, second, and third steps, so that the AutoGPT can get the input in the best format. ⬇️ 
 
+<img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/971437e5-b7fe-4c91-91f1-b3a212aa733a" width="128">      
 
-<img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/971437e5-b7fe-4c91-91f1-b3a212aa733a" width="128">
-
+#### It keeps the feature of restoring the previous task. "n" means not to continue, and "y" means to continue: 
 <img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/96717fdb-4f47-4d4a-802b-10b2d05a8147" width="128">
 
+#### Put user input: 
 <img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/ac2c259b-75d4-4470-b87d-fc810cbd9b54" width="128">
 
+#### In its workspace, it will work on your task
 <img src="https://github.com/bobhaotian/Plan-Assistant-GPT-Interaction-APP/assets/112147566/f65117ca-8cee-4620-b852-102b495c7cc1" width="428">
+
+#### Finally, I extracted the content in the workspace to the APP page, so that users can see it. 
 
 
 ## Procedure of Making
